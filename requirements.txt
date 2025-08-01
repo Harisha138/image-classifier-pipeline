@@ -1,0 +1,9 @@
+modal
+streamlit
+requests
+Pillow
+torch
+numpy
+fastapi
+uvicorn
+python-multipart
