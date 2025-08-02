@@ -83,22 +83,20 @@ Your browser will open a new tab with the image classifier. You can now upload a
 
 ## 📸 Screenshots
 
-### Screenshot: training the model in colab
-![Screenshot 197](Screenshot%20(197).png)
+A walkthrough of the project pipeline from training to prediction.
 
-### Screenshot: creating a token and deloying in modal
-![Screenshot 185](Screenshot%20(185).png)
-![Screenshot 188](Screenshot%20(188).png)
+### 1. Training the Model in Colab
+![Training the model in Google Colab](screenshots/Screenshot%20(197).png)
 
-### Screenshot: opening streamlit
-![Screenshot 191](Screenshot%20(191).png)
+### 2. Deploying the Model to Modal
+![Deploying the model to the cloud using Modal](screenshots/Screenshot%20(185).png)
+![Screenshot](screenshots/Screenshot%202025-08-01%20234636.png)
 
-### Screenshot: uploading a cat image for testing
-![Screenshot 192](Screenshot%20(192).png)
+### 3. Running the Streamlit UI
+![Launching the Streamlit user interface](screenshots/Screenshot%20(191).png)
 
-![Screenshot 195](Screenshot%20(195).png)
+### 4. Predicting an Image
+![Uploading a cat image and receiving a successful prediction](screenshots/Screenshot%20(196).png)
 
-### Screenshot: predicting
-![Screenshot 196](Screenshot%20(196).png)
 
 
