@@ -80,3 +80,25 @@ The pipeline consists of three main components:
 
 Your browser will open a new tab with the image classifier. You can now upload an image and get a prediction from your cloud-hosted model!
 
+
+## 📸 Screenshots
+
+### Screenshot: training the model in colab
+![Screenshot 197](Screenshot%20(197).png)
+
+### Screenshot: creating a token and deloying in modal
+![Screenshot 185](Screenshot%20(185).png)
+![Screenshot 188](Screenshot%20(188).png)
+
+### Screenshot: opening streamlit
+![Screenshot 191](Screenshot%20(191).png)
+
+### Screenshot: uploading a cat image for testing
+![Screenshot 192](Screenshot%20(192).png)
+
+![Screenshot 195](Screenshot%20(195).png)
+
+### Screenshot: predicting
+![Screenshot 196](Screenshot%20(196).png)
+
+
