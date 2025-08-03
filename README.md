@@ -5,6 +5,7 @@ This project demonstrates a simple, end-to-end machine learning pipeline for bin
 ## 🎥 Short video
 
 ![Demo](short_video.gif)
+
 ## Project Overview
 The pipeline consists of three main components:
 
@@ -99,6 +100,7 @@ A walkthrough of the project pipeline from training to prediction.
 
 ### 4. Predicting an Image
 ![Uploading a cat image and receiving a successful prediction](screenshots/Screenshot%20(196).png)
+
 
 
 
