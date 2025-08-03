@@ -2,9 +2,10 @@
 
 This project demonstrates a simple, end-to-end machine learning pipeline for binary image classification. It includes scripts for training a PyTorch model, deploying it as a serverless API on [Modal](https://modal.com/), and interacting with it through a [Streamlit](https://streamlit.io/) web interface.
 
-## Project Overview
-![This is a demo of my project](short video.gif)
+## 🎥 Short video
 
+![Demo](short_video.gif)
+## Project Overview
 The pipeline consists of three main components:
 
 1.  **Training (`ml_pipeline_script.py`):** A Python script to train a simple Convolutional Neural Network (CNN) on a local dataset (e.g., Cats vs. Dogs) and save the model weights.
@@ -98,6 +99,7 @@ A walkthrough of the project pipeline from training to prediction.
 
 ### 4. Predicting an Image
 ![Uploading a cat image and receiving a successful prediction](screenshots/Screenshot%20(196).png)
+
 
 
 
